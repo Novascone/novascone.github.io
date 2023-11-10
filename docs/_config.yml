@@ -29,8 +29,6 @@ github_username:  Novascone
 mastodon:
 - username: Novascone
   instance: Fosstodon.org
-- username: janedoe
-  instance: another-example.com
 
 # Build settings
 theme: minima
