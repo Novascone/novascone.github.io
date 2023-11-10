@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![image tooltip here](/images/IMG_4504.jpg)
+
 Hello my name is Warren Novascone
 
 I am a computer scientist who enjoys art, food and adventure!
