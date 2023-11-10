@@ -1,5 +1,5 @@
 ---
 layout: thoughts
-title: Thoughts-PH
+title: Thoughts
 permalink: /thoughts/
 ---
