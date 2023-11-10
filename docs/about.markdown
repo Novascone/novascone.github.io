@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](/images/IMG_4504.jpeg)
+![](/images/IMG_4504.jpeg){:height="700px" width="400px"}
 
 Hello my name is Warren Novascone
 
