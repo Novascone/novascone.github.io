@@ -1,5 +1,5 @@
 ---
-layout: thoughts
+layout: post
 title:  "Scavanger's Rein, and Blue Eye Samurai"
 date:   2023-11-10
 categories: blog
