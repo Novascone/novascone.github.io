@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![image tooltip here](/images/IMG_4504.jpg)
+![](/images/IMG_4504.jpeg)
 
 Hello my name is Warren Novascone
 
