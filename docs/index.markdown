@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![](/images/IMG_0014.png){:height="200px" width="200px"}
