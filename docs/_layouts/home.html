@@ -10,11 +10,11 @@ h1 {
 }
 
 h2 {
-  text-align: center;
+  text-align: left;
 }
 
 h3 {
-  text-align: right;
+  text-align: left;
 }
 </style>
 </head>
@@ -26,8 +26,8 @@ h3 {
   {%- endif -%}
 
   {{ content }}
-  <div class=content><section class="container centered"><div class=about><h1 style="font-size:30px">Warren Novascone</h1>
-    <h2 class=info>Computer Scientist - Aspiring Researcher - Budding Adventurer </h2>
+  <div class=content><section class="container centered"><div class=about><h1 style="font-size:60px">Warren Novascone</h1>
+    <h1 class=info>Computer Scientist - Aspiring Researcher - Budding Adventurer </h1>
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
