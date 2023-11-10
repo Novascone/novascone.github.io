@@ -6,7 +6,7 @@ permalink: /about/
 
 ![](/images/IMG_4504.jpeg){:height="200px" width="200px"}
 
-Hello my name is Warren Novascone
+Hello, my name is Warren Novascone
 
 I am a computer scientist who enjoys art, food and adventure!
 
