@@ -14,4 +14,4 @@ I will probably post things that I find interesting from computer science, mathe
 
 I also intend to post recipies, and document my adventures.
 
-![](/images/Eigen_Moose.png){:height="200px" width="200px"}
+![](/images/Eigen_Moose.png){:height="400px" width="400px"}
