@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Thoughts-Place-Holder
+title: Thoughts-PH
 permalink: /thoughts/
 ---

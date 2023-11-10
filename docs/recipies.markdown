@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Recipies-Place-Holder
+title: Recipies-PH
 permalink: /recipies/
 ---

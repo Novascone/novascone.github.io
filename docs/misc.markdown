@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Misc-Place-Holder
+title: Misc-PH
 permalink: /misc/
 ---
