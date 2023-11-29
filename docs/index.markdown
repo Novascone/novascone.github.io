@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![](/images/favicon.png){:height="200px" width="200px"}
+![](/images/n.png){:height="200px" width="200px"}
