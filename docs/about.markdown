@@ -14,5 +14,3 @@ I will probably post things that I find interesting from computer science, mathe
 
 
 ![](/images/eigenmoose.png){:height="400px" width="400px"}
-
-{% include map.html %}
