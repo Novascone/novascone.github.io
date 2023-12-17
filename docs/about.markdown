@@ -16,4 +16,4 @@ I will probably post things that I find interesting from computer science, mathe
 ![](/images/eigenmoose.png){:height="400px" width="400px"}
 
 
-[label](https://novascone.com/map.html)
+[My Map](https://novascone.com/map.html)
