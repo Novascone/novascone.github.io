@@ -8,10 +8,6 @@ permalink: /about/
 
 Hello, my name is Warren Novascone
 
-I am a computer scientist who enjoys art, food and adventure!
-
-I will probably post things that I find interesting from computer science, mathematics, and other related fields.
-
 
 ![](/images/eigenmoose.png){:height="400px" width="400px"}
 
